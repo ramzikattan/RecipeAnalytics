@@ -6,3 +6,21 @@ Project Flow:
 4. Ingredient Recommender -> Threshold-Filtered Recipe CSV
 5. Attribute Recommender -> Sentiment & Similarity Evaluations
 6. Final Recommendation -> Top 3 Recipes
+
+
+Presentation Outline
+1. Section 1: Proof of Concept
+- Labeling Ingredients Example
+- User Description Example
+- Recommended Recipes (No Code just Demonstration)
+2. Section 2: Backend Workflow
+- Scraping
+- Allergy Filtration
+- Pre-Processing
+- Image Analytics & Attribute Extraction (User interaction point)
+- Ingredient-Requirements Recommendations
+- Attribute-Review Recommendations
+3. Section 3: Future Work
+- App Design & Chatbot UI
+- Memory Features (Allergies, Cookware, Preferences)
+- Integration with Grocery Stores (HEB Plugin)
