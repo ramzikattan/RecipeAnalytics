@@ -1,7 +1,7 @@
 Project Flow: 
 0. Scraper -> CSV of Recipes
-1. Allergy Filtration -> Filtered Recipe CSV
-2. Pre-Processing -> Filtered Recipe CSV 
+1. Pre-Processing -> Filtered Recipe CSV 
+2. Allergy Filtration -> Filtered Recipe CSV
 3. Ingredient Labeling & Attribute Extraction -> Ingredient List & Attribute List
 4. Ingredient Recommender -> Threshold-Filtered Recipe CSV
 5. Attribute Recommender -> Sentiment & Similarity Evaluations
